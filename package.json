@@ -1,0 +1,14 @@
+{
+  "name": "angularupdate-master",
+  "version": "1.0.0",
+  "description": "An application for sharing ideas",
+  "main": "node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nicole Roche, John Dunne, Conan Keaveney, Rory Clarke, Alex Zaharia",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
